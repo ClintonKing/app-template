@@ -38,11 +38,11 @@ ASSETS_SLUG = '$NEW_PROJECT_SLUG'
 """
 DEPLOYMENT
 """
-PRODUCTION_S3_BUCKET = ''
+PRODUCTION_S3_BUCKET = 'apps.clintonjking.com'
 
-STAGING_S3_BUCKET = ''
+STAGING_S3_BUCKET = 'staging.clintonjking.com'
 
-ASSETS_S3_BUCKET = ''
+ASSETS_S3_BUCKET = 'assets.apps.clintonjking.com'
 
 DEFAULT_MAX_AGE = 20
 
